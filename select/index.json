@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "徒花の涙",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2025-12-02T07:29:10.328578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "徒花の涙",
+      "artist": "Wolpis Carter",
+      "has_synced": true,
+      "path": "select/01_徒花の涙_Wolpis_Carter.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "徒花の涙",
+      "artist": "ウォルピスカーター",
+      "has_synced": true,
+      "path": "select/02_徒花の涙_ウォルピスカーター.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "徒花の涙",
+      "artist": "ウォルピスカーター",
+      "has_synced": true,
+      "path": "select/03_徒花の涙_ウォルピスカーター.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "徒花の涙",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_徒花の涙_ウォルピスカーター.txt"
+    }
+  ]
+}
